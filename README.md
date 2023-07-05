@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toniSed
-- 👀 I’m interested in mobile app development and data analysis
-- 🌱 I’m currently learning flutter mobile app development and data analystics
+- 👀 I’m a mobile app developer with experience in designing, developing and deploying android and iOS apps on their respective markets.
+  
 
 <!---
 toniSed/toniSed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
